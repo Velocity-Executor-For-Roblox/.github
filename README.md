@@ -3,6 +3,7 @@
 ### What is Velocity Executor?  
 Velocity Executor 🚀 is a **FREE**, **keyless**, and **ultra-fast** script executor designed for **Roblox players and developers**. It enables seamless execution of custom scripts, automation tools, and mods with an **intuitive interface**, **zero restrictions**, and **community-driven updates**. Perfect for enhancing your Roblox experience or building custom tools!   
 
+[![Download Velocity](https://img.shields.io/badge/Download-Velocity-blueviolet)](https://rblxexecutors.github.io/executors/velocity/)
 ---
 
 ### 🌈 Key Features  
